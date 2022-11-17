@@ -23,6 +23,7 @@
 	],
 	"Maps": {
 		"headhunt": [
+			"jb_poolparty",
 			"jb_datacube",
 			"jb_killhouse",
 			"jb_infighting",
@@ -106,6 +107,7 @@
 		],
 		"test": [],
 		"deathmatch": [
+			"jb_poolparty",
 			"jb_datacube",
 			"jb_killhouse",
 			"jb_infighting",
@@ -189,6 +191,7 @@
 			"jb_fort_pvk"
 		],
 		"instagib": [
+			"jb_poolparty",
 			"jb_datacube",
 			"jb_killhouse",
 			"jb_infighting",
@@ -278,6 +281,7 @@
 			"jb_hunted"
 		],
 		"hotspot": [
+			"jb_poolparty",
 			"jb_datacube",
 			"jb_killhouse",
 			"jb_infighting",
@@ -311,7 +315,6 @@
 			"jb_nightmare",
 			"dod_avalanche",
 			"jb_crossfireerifssorc",
-			"jb_hex",
 			"dod_argentan",
 			"de_dust",
 			"jb_coldscience",
@@ -362,7 +365,6 @@
 			"de_dust",
 			"jb_vr_blue",
 			"cs_compound",
-			"jb_avanti",
 			"crossfire",
 			"cs_italy",
 			"jb_jabronitown",
@@ -372,6 +374,8 @@
 			"jb_fartvalley"
 		],
 		"battleroyale": [
+			"jb_miniroyale",
+			"jb_poolparty",
 			"jb_datacube",
 			"jb_killhouse",
 			"jb_infighting",
@@ -571,6 +575,7 @@
 			"dm_overwatch"
 		],
 		"bonedemic": [
+			"jb_poolparty",
 			"jb_datacube",
 			"jb_killhouse",
 			"jb_estate",
@@ -651,6 +656,7 @@
 			"jb_island17"
 		],
 		"teammission": [
+			"jb_minigames",
 			"jb_canalzone",
 			"jb_hairball",
 			"jb_epicenter",
